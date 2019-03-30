@@ -1,7 +1,20 @@
 # hackathon-sport-spordonnance
 Code du project Spordonnance - Hackathon sport
 
+# Le projet
+Comment mettre en mouvement l’offre de sport sur ordonnance en France ?
+et ainsi contribuer à :
+-	développer la pratique “sport santé” 
+-	diminuer les dépenses de santé évitables
+-	améliorer la santé physique et mentale de la population
+
 # Le consortium
+Objectif:
+- Permettre la collaboration d’acteurs concurrents au sein d’un même écosystème pour créer de la valeur.
+- Sécuriser les données et des transactions (audit + traçabilité)
+- Décentraliser la preuve et la gouvernance 
+- Gain de temps, gestion de l’identité et des process 
+
 3 noeuds validateurs maintenus par 3 mutuelles.
 Implémentaiton:geth - Consensus:POA - Host:GCloud Tool:[hackathon-sport.rockside.io](https://hackathon-sport.rockside.io
 ![img consortium](https://github.com/vincentlg/hackathon-sport-spordonnance/blob/master/consortium.png)
