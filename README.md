@@ -16,7 +16,7 @@ Objectif:
 - Gain de temps, gestion de l’identité et des process 
 
 3 noeuds validateurs maintenus par 3 mutuelles.
-Implémentaiton:geth - Consensus:POA - Host:GCloud Tool:[hackathon-sport.rockside.io](https://hackathon-sport.rockside.io
+Implémentaiton:geth - Consensus:POA - Host:GCloud Tool:[rockside.io](https://rockside.io)
 ![img consortium](https://github.com/vincentlg/hackathon-sport-spordonnance/blob/master/consortium.png)
 
 # Les acteurs
