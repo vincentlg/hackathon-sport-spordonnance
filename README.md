@@ -9,12 +9,13 @@ et ainsi contribuer à :
 -	améliorer la santé physique et mentale de la population
 
 # Le consortium
-Objectif:
+## Objectifs
 - Permettre la collaboration d’acteurs concurrents au sein d’un même écosystème pour créer de la valeur.
 - Sécuriser les données et des transactions (audit + traçabilité)
 - Décentraliser la preuve et la gouvernance 
 - Gain de temps, gestion de l’identité et des process 
 
+## Implémentation
 - Blockchain: 3 noeuds validateurs maintenus par 3 mutuelles.
 - Implémentaiton: geth 
 - Consensus: POA 
