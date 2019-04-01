@@ -15,8 +15,14 @@ Objectif:
 - Décentraliser la preuve et la gouvernance 
 - Gain de temps, gestion de l’identité et des process 
 
-3 noeuds validateurs maintenus par 3 mutuelles.
-Implémentaiton:geth - Consensus:POA - Host:GCloud Tool:[rockside.io](https://rockside.io)
+- Blockchain: 3 noeuds validateurs maintenus par 3 mutuelles.
+- Implémentaiton: geth 
+- Consensus: POA 
+- Host: GCloud 
+- IDE: [Remix](https://remix.ethereum.org) 
+- Wallet: [metamask.io](https://metamask.io) 
+- Consortium et BlockExplorer: [rockside.io](https://rockside.io)
+
 ![img consortium](https://github.com/vincentlg/hackathon-sport-spordonnance/blob/master/consortium.png)
 
 # Les acteurs
